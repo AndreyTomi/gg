@@ -23,5 +23,7 @@ public class lesson2 {
         System.out.println(booleanWow);
     }
 
+public void testedDead(){
 
+}
 }
