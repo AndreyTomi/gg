@@ -24,6 +24,7 @@ public class lesson2 {
     }
 
 public void testedDead(){
+        int itwowi = 32;
 
 }
 }
